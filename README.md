@@ -1,7 +1,12 @@
 <div align="center">
 
 # Hi there, I'm Yared Kinetibeb Tesfaye 👋
-### 🎓 5th-Year Computer Engineering Senior @ AASTU | Full-Stack & Embedded Systems Developer 🚀
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%F0%9F%9A%80+Full-Stack+%26+Microservices+Backend+Developer;%E2%9A%A1+Bare-Metal+Embedded+C%2FC%2B%2B+%26+FreeRTOS+Developer;%F0%9F%A4%96+Certified+Agentic+AI+Solution+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-dfa951?style=for-the-badge&logo=google-chrome&logoColor=0f172a)](https://yaya2127.github.io/Personal-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-kinetibeb-3b788b350/)
