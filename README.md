@@ -105,6 +105,10 @@
 
 ### 📜 Verified Credentials & Certifications
 
+- ✨ **SkillQuest - Generative AI Literacy**
+  *Issued by Simplilearn SkillUP (August 11, 2026)* | **Certificate No:** `21601524`
+  *Verified by Krishna Kumar (CEO, Simplilearn)*
+
 - 🤖 **Engineering Agentic Artificial Intelligence Solutions**
   *Issued by The Udara Project & NSK AI (July 13, 2026)* | **Certificate ID:** `cmriv64ws08331417au085co0`
   *Verified by Ifeanyi Okala (Founder)*
