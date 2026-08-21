@@ -127,3 +127,4 @@
 </div>
 
 <!-- Updated 2026 Developer Metrics -->
+<!-- Verified Credentials Section -->
