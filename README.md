@@ -85,12 +85,34 @@
 
 ### 💻 Comprehensive Technical Stack & Tools
 
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **Programming Languages** | `Go (Golang 1.22)`, `Python 3.11`, `C / C++`, `TypeScript`, `JavaScript (ES6+)`, `SQL`, `Embedded C`, `Dart` |
-| **Backend & Cloud Microservices** | `RESTful APIs`, `WebSockets`, `Redis Pub/Sub`, `Docker`, `PostgreSQL 15`, `gRPC`, `NestJS`, `Django` |
-| **Frontend & UI Engineering** | `React 18`, `Three.js 3D WebGL`, `HTML5 Canvas API`, `TradingView UI`, `Flutter`, `CSS3 / Tailwind` |
-| **DevSecOps & Embedded Firmware** | `AST Compiler Parsers`, `OWASP Top 10 Security`, `ATmega328P`, `FreeRTOS`, `Proteus VSM`, `PlatformIO` |
+#### 🚀 Programming Languages
+[![Go](https://img.shields.io/badge/Go_1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+[![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+
+#### ⚡ Backend, Cloud & Microservices
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Redis](https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![REST APIs](https://img.shields.io/badge/RESTful_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net)
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io)
+
+#### 🎨 Frontend & UI Frameworks
+[![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Three.js](https://img.shields.io/badge/Three.js_3D_WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org)
+
+#### 🛡️ DevSecOps & Embedded Firmware
+[![AST Compiler](https://img.shields.io/badge/AST_Compiler_Parsers-7928CA?style=for-the-badge&logo=codespaces&logoColor=white)](https://owasp.org)
+[![OWASP Security](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+[![ATmega328P](https://img.shields.io/badge/ATmega328P_Microcontroller-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://microchip.com)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-162832?style=for-the-badge&logo=espressif&logoColor=white)](https://freertos.org)
 
 ---
 
