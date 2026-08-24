@@ -132,3 +132,7 @@
 
 ### NexusIoT 3D WebGL Platform
 - 3D WebGL turbine digital twin & multi-node oscilloscope
+
+
+### SentinelAI Security Auditor
+- AST security auditor & PDF certificate exporter
