@@ -128,3 +128,7 @@
 
 <!-- Updated 2026 Developer Metrics -->
 <!-- Verified Credentials Section -->
+
+
+### NexusIoT 3D WebGL Platform
+- 3D WebGL turbine digital twin & multi-node oscilloscope
