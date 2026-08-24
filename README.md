@@ -143,3 +143,5 @@
 <!-- Contribution metrics update -->
 
 <!-- README layout tuning -->
+
+<!-- Contribution update: feat(readme): add Senior Capstone Engineering portfolio summary section -->
