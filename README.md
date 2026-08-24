@@ -147,3 +147,5 @@
 <!-- Contribution update: feat(readme): add Senior Capstone Engineering portfolio summary section -->
 
 <!-- Contribution update: docs(skills): update Go, Python, C++, and IoT tech stack badges -->
+
+<!-- Contribution update: style(profile): tune featured project banner image layout -->
