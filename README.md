@@ -25,7 +25,7 @@
       <h3 align="center">📈 FinPulse Engine</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/finpulse-trading-engine/">
-          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/ecommerce.jpg" width="100%" style="border-radius:10px;"/>
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/finpulse-trading.jpg" width="100%" style="border-radius:10px;"/>
         </a>
       </p>
       <p><b>High-Frequency Algorithmic Trading & Risk Engine</b></p>
