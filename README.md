@@ -3,7 +3,7 @@
 # Hi there, I'm Yared Kinetibeb Tesfaye 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=680&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%E2%9A%A1+FinPulse+Sub-Microsecond+HFT+Engine+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+DevSecOps+Security+Engine;%E2%9A%A1+NexusIoT+Industrial+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go+%26+Python+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=680&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%E2%9A%A1+FinPulse+Sub-Microsecond+HFT+Engine+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+DevSecOps+Security+Engine;%E2%9A%A1+NexusIoT+Industrial+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go+%26+Python+Microservices;%E2%9A%A1+Bare-Metal+Embedded+C%2FC%2B%2B+%26+FreeRTOS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -83,16 +83,38 @@
 
 ---
 
-### 💻 Senior Engineering Skill Set
+### 💻 Comprehensive Technical Stack & Tools
 
-- **Languages**: Go (Golang), Python 3.11, C / C++, TypeScript, JavaScript, SQL, Embedded C, Dart
-- **Backend & Cloud**: REST APIs, WebSockets, Redis Pub/Sub, Docker, PostgreSQL, Microservices Architecture
-- **DevSecOps & Embedded**: AST Parsers, OWASP Top 10, ATmega328P, FreeRTOS, Proteus VSM, PlatformIO
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **Programming Languages** | `Go (Golang 1.22)`, `Python 3.11`, `C / C++`, `TypeScript`, `JavaScript (ES6+)`, `SQL`, `Embedded C`, `Dart` |
+| **Backend & Cloud Microservices** | `RESTful APIs`, `WebSockets`, `Redis Pub/Sub`, `Docker`, `PostgreSQL 15`, `gRPC`, `NestJS`, `Django` |
+| **Frontend & UI Engineering** | `React 18`, `Three.js 3D WebGL`, `HTML5 Canvas API`, `TradingView UI`, `Flutter`, `CSS3 / Tailwind` |
+| **DevSecOps & Embedded Firmware** | `AST Compiler Parsers`, `OWASP Top 10 Security`, `ATmega328P`, `FreeRTOS`, `Proteus VSM`, `PlatformIO` |
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaya2127&show_icons=true&theme=gold&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya2127&layout=compact&theme=gold&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 🎓 Education & Verified Certifications
+
+- 🎓 **B.Sc. in Computer Engineering (5th-Year Senior)** — *Addis Ababa Science and Technology University (AASTU)* (Cumulative GPA: 3.78/4.00)
+- 🏆 **Simplilearn Generative AI Literacy** — Verified Certificate in Large Language Models & Prompt Engineering
+- 🏆 **Udacity Full-Stack Web Developer Nanodegree** — Verified Certificate in Cloud APIs & Database Systems
+- 🏆 **FreeCodeCamp Responsive Web Design** — Verified Certificate in Frontend Architecture
 
 ---
 
 ### 📫 Connect & Collaborate
 
-- **Email**: [kinetibebyared@gmail.com](mailto:kinetibebyared@gmail.com)
-- **LinkedIn**: [Yared Kinetibeb Tesfaye](https://www.linkedin.com/in/yared-kinetibeb-3b788b350/)
-- **Live Portfolio**: [yaya2127.github.io/Personal-Portfolio](https://yaya2127.github.io/Personal-Portfolio/)
+- 📧 **Email**: [kinetibebyared@gmail.com](mailto:kinetibebyared@gmail.com)
+- 💼 **LinkedIn**: [Yared Kinetibeb Tesfaye](https://www.linkedin.com/in/yared-kinetibeb-3b788b350/)
+- 🌐 **Live Portfolio**: [yaya2127.github.io/Personal-Portfolio](https://yaya2127.github.io/Personal-Portfolio/)
+- 📄 **Download PDF CV**: [Yared_Kinetibeb_CV.pdf](https://yaya2127.github.io/Personal-Portfolio/assets/docs/Yared_Kinetibeb_CV.pdf)
