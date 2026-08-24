@@ -3,7 +3,7 @@
 # Hi there, I'm Yared Kinetibeb Tesfaye 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=680&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%E2%9A%A1+FinPulse+Sub-Microsecond+HFT+Engine+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+DevSecOps+Security+Engine;%E2%9A%A1+NexusIoT+Industrial+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go+%26+Python+Microservices;%E2%9A%A1+Bare-Metal+Embedded+C%2FC%2B%2B+%26+FreeRTOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=680&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%E2%9A%A1+FinPulse+Sub-Microsecond+HFT+Engine+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+DevSecOps+Security+Engine;%E2%9A%A1+NexusIoT+Industrial+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go%2C+Python+%26+Next.js+Architect;%E2%9A%A1+Bare-Metal+Embedded+C%2FC%2B%2B+%26+FreeRTOS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -83,35 +83,42 @@
 
 ---
 
-### 💻 Comprehensive Technical Stack & Tools
+### 💻 Technical Stack & Engineering Capabilities
 
 #### 🚀 Programming Languages
 [![Go](https://img.shields.io/badge/Go_1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
 [![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-#### ⚡ Backend, Cloud & Microservices
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Redis](https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![REST APIs](https://img.shields.io/badge/RESTful_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net)
-[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org)
-[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io)
-
-#### 🎨 Frontend & UI Frameworks
-[![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+#### 🎨 Frontend, Web & Mobile Frameworks
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React 18](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Three.js](https://img.shields.io/badge/Three.js_3D_WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org)
 
-#### 🛡️ DevSecOps & Embedded Firmware
-[![AST Compiler](https://img.shields.io/badge/AST_Compiler_Parsers-7928CA?style=for-the-badge&logo=codespaces&logoColor=white)](https://owasp.org)
-[![OWASP Security](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-[![ATmega328P](https://img.shields.io/badge/ATmega328P_Microcontroller-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://microchip.com)
+#### ⚡ Backend, Cloud & Databases
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://prisma.io)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
+
+#### 🛡️ DevSecOps, Cloud & Embedded Systems
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![AST Compiler](https://img.shields.io/badge/AST_Parsers-7928CA?style=for-the-badge&logo=codespaces&logoColor=white)](https://owasp.org)
+[![OWASP Security](https://img.shields.io/badge/OWASP_DevSecOps-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+[![ATmega328P](https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://microchip.com)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-162832?style=for-the-badge&logo=espressif&logoColor=white)](https://freertos.org)
 
 ---
