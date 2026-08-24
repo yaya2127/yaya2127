@@ -136,3 +136,6 @@
 
 ### SentinelAI Security Auditor
 - AST security auditor & PDF certificate exporter
+
+
+<!-- Verified Credentials -->
