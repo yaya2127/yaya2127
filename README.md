@@ -22,6 +22,25 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
+      <h3 align="center">🏥 SYNAPSE-Med</h3>
+      <p align="center">
+        <a href="https://yaya2127.github.io/synapse-med-platform/">
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/finpulse-trading.jpg" width="100%" style="border-radius:10px;"/>
+        </a>
+      </p>
+      <p><b>Real-Time ICU Telemetry & NEWS2 Risk Engine</b></p>
+      <ul>
+        <li><b>12-Lead ECG Oscilloscope</b> canvas rendering 60 FPS P-Q-R-S-T waves</li>
+        <li><b>NEWS2 Calculator</b> clinical sepsis & arrhythmia early warning score</li>
+        <li><b>8-Bed ICU Matrix</b> bed switching & live multi-vital streaming</li>
+        <li><b>Mobile Ambulance</b> telemetry fleet dispatch & EMR export</li>
+      </ul>
+      <p align="center">
+        <a href="https://yaya2127.github.io/synapse-med-platform/"><b>🌐 Live App</b></a> | 
+        <a href="https://github.com/yaya2127/synapse-med-platform"><b>💻 GitHub Code</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">📈 FinPulse Engine</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/finpulse-trading-engine/">
