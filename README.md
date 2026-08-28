@@ -33,6 +33,25 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛡️ KUBE-Sentinel Engine</h3>
+      <p align="center">
+        <a href="https://yaya2127.github.io/kube-sentinel-platform/">
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/nexus-iot.jpg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
+        </a>
+      </p>
+      <p><b>Autonomous Kubernetes Mesh & Chaos Resilience Engine</b></p>
+      <ul>
+        <li><b>60 FPS DAG Topology</b>: Interactive HTML5 Canvas Kubernetes microservice topology graph.</li>
+        <li><b>eBPF Packet Tracing</b>: Sub-millisecond network span tracing logging status codes.</li>
+        <li><b>Chaos Monkey Engine</b>: Pod kill switch, latency injection (+180ms), & packet loss (30%).</li>
+        <li><b>Tech Stack</b>: Go 1.22, Kubernetes v1.30, eBPF, Istio Mesh, Grafana Slate UI.</li>
+      </ul>
+      <p align="center">
+        <a href="https://yaya2127.github.io/kube-sentinel-platform/"><b>🌐 Launch Live App</b></a> | 
+        <a href="https://github.com/yaya2127/kube-sentinel-platform"><b>💻 GitHub Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🏥 SYNAPSE-Med Platform</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/synapse-med-platform/">
@@ -51,6 +70,7 @@
         <a href="https://github.com/yaya2127/synapse-med-platform"><b>💻 GitHub Code</b></a>
       </p>
     </td>
+  </tr>
     <td width="50%" valign="top">
       <h3 align="center">📈 FinPulse HFT Engine</h3>
       <p align="center">
