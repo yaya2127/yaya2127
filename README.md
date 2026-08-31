@@ -36,7 +36,7 @@
       <h3 align="center">🛡️ KUBE-Sentinel Mesh Engine</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/kube-sentinel-platform/">
-          <img src="https://img.shields.io/badge/KUBE--Sentinel-Autonomous_K8s_Mesh-0284c7?style=for-the-badge&logo=kubernetes&logoColor=white" width="100%"/>
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/kube-sentinel.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
         </a>
       </p>
       <p><b>Autonomous Kubernetes Microservice Mesh & Chaos Resilience Engine</b></p>
@@ -55,7 +55,7 @@
       <h3 align="center">🏥 SYNAPSE-Med Telemetry Platform</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/synapse-med-platform/">
-          <img src="https://img.shields.io/badge/SYNAPSE--Med-ICU_Vital_Telemetry-059669?style=for-the-badge&logo=activity&logoColor=white" width="100%"/>
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/synapse-med.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
         </a>
       </p>
       <p><b>Real-Time Emergency ICU Vital Telemetry & NEWS2 Risk Evaluator</b></p>
@@ -76,7 +76,7 @@
       <h3 align="center">📈 FinPulse HFT Engine</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/finpulse-trading-engine/">
-          <img src="https://img.shields.io/badge/FinPulse-Sub--Microsecond_HFT-3b82f6?style=for-the-badge&logo=trending-up&logoColor=white" width="100%"/>
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/finpulse-trading.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
         </a>
       </p>
       <p><b>Sub-Microsecond High-Frequency Trading & Risk Engine</b></p>
@@ -95,7 +95,7 @@
       <h3 align="center">⚡ NexusIoT Edge Platform</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/nexus-iot-edge-platform/">
-          <img src="https://img.shields.io/badge/NexusIoT-Industrial_SCADA_Edge-7c3aed?style=for-the-badge&logo=cpu&logoColor=white" width="100%"/>
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/nexus-iot.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
         </a>
       </p>
       <p><b>Distributed Industrial IoT Edge & SCADA Platform</b></p>
@@ -116,7 +116,7 @@
       <h3 align="center">🛡️ SentinelAI Code Security Auditor</h3>
       <p align="center">
         <a href="https://yaya2127.github.io/sentinel-ai-code-auditor/">
-          <img src="https://img.shields.io/badge/SentinelAI-Autonomous_Security_Auditor-dc2626?style=for-the-badge&logo=shield&logoColor=white" width="100%"/>
+          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/sentinel-ai.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
         </a>
       </p>
       <p align="center"><b>Autonomous Agentic AI Code Security & AST Vulnerability Auditor</b></p>
