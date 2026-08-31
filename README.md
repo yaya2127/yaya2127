@@ -23,6 +23,7 @@
 
 - 🎓 **Education**: 5th-Year Computer Engineering Senior Student at **Addis Ababa Science and Technology University (AASTU)**.
 - ⚙️ **Engineering Focus**: High-performance Go microservices, eBPF network telemetry, real-time medical vital wave oscilloscopes, hardware edge computing, and static AST code security auditing.
+- 🎯 **Looking For**: Computer Engineering Internship / Software Engineering Internship Opportunities.
 
 ---
 
@@ -80,28 +81,40 @@
 
 ---
 
-## 💻 Technical Stack & Domain Proficiency
+## 🛠️ Technical Stack & Toolkits
 
-- **Languages**: Go (Golang 1.22), Python 3.11, C/C++, TypeScript, JavaScript (ES6+), SQL, Dart, Embedded C
-- **Backend & Cloud**: Kubernetes v1.30, eBPF, Istio Service Mesh, Docker, RESTful APIs, WebSockets, Redis Pub/Sub, PostgreSQL 15, gRPC, NestJS
-- **Frontend & Web**: React 18, Next.js, Three.js 3D WebGL, Flutter, HTML5 Canvas 60FPS, Web Audio API, Tailwind CSS
-- **Hardware & Security**: AST Compiler Parsers, OWASP Top 10, ISO 27001 Compliance, ATmega328P Bare-Metal, FreeRTOS, Proteus VSM
-
-<div align="center">
-
-### 🛠️ Core Technologies
+### 💻 Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web & Frontend Engineering
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ☁️ Cloud, DevOps & Databases
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+### 🤖 AI, Security & Embedded Systems
+![Python AST](https://img.shields.io/badge/AST_Compiler_Parsers-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OWASP Security](https://img.shields.io/badge/OWASP_Top_10_Security-DC2626?style=for-the-badge&logo=shield&logoColor=white)
+![Bare Metal](https://img.shields.io/badge/ATmega328P_Bare_Metal-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0284C7?style=for-the-badge&logo=cpu&logoColor=white)
 
 ---
 
@@ -126,5 +139,5 @@
 
 <div align="center">
   <br/>
-  <sub>© 2026 Yared Kinetibeb Tesfaye — Built with passion for Computer Engineering & High-Performance Software Engineering.</sub>
+  <sub>© 2026 Yared Kinetibeb Tesfaye — Built with passion for Computer Engineering & High-Performance Software Systems.</sub>
 </div>
