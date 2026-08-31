@@ -2,7 +2,7 @@
 
 # Yared Kinetibeb Tesfaye
 ### 5th-Year Computer Engineering Senior @ Addis Ababa Science and Technology University (AASTU)
-**Distributed Systems Architect | Full-Stack Software Engineer | Cloud-Native & DevOps Specialist**
+**Full-Stack Software Engineer | Computer Engineering Senior @ AASTU | AI & Web Developer**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%F0%9F%9B%A1%EF%B8%8F+KUBE-Sentinel+Autonomous+K8s+Mesh+%26+Chaos+Resilience;%F0%9F%8F%A5+SYNAPSE-Med+ICU+Vital+Telemetry+%26+NEWS2+Platform;%F0%9F%93%98+FinPulse+Sub-Microsecond+HFT+Ring+Buffer+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+AST+Static+Code+Security+Auditor;%E2%9A%A1+NexusIoT+Distributed+SCADA+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go%2C+Python%2C+TypeScript+%26+Next.js" alt="Typing SVG" />
@@ -126,5 +126,5 @@
 
 <div align="center">
   <br/>
-  <sub>© 2026 Yared Kinetibeb Tesfaye — Built with passion for Computer Engineering & High-Performance Distributed Systems.</sub>
+  <sub>© 2026 Yared Kinetibeb Tesfaye — Built with passion for Computer Engineering & High-Performance Software Engineering.</sub>
 </div>
