@@ -23,7 +23,6 @@
 
 - 🎓 **Education**: 5th-Year Computer Engineering Senior Student at **Addis Ababa Science and Technology University (AASTU)**.
 - ⚙️ **Engineering Focus**: High-performance Go microservices, eBPF network telemetry, real-time medical vital wave oscilloscopes, hardware edge computing, and static AST code security auditing.
-- 🎯 **Looking For**: Computer Engineering Internship / Software Engineering Internship Opportunities.
 
 ---
 
