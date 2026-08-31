@@ -2,10 +2,10 @@
 
 # Yared Kinetibeb Tesfaye
 ### 5th-Year Computer Engineering Senior @ Addis Ababa Science and Technology University (AASTU)
-**Distributed Systems Architect | Low-Latency Go Engineer | Cloud-Native & AI Security Specialist**
+**Distributed Systems Architect | Full-Stack Software Engineer | Cloud-Native & DevOps Specialist**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU+(3.78+GPA);%F0%9F%9B%A1%EF%B8%8F+KUBE-Sentinel+Autonomous+K8s+Mesh+%26+Chaos+Resilience;%F0%9F%8F%A5+SYNAPSE-Med+ICU+Vital+Telemetry+%26+NEWS2+Platform;%F0%9F%93%98+FinPulse+Sub-Microsecond+HFT+Ring+Buffer+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+AST+Static+Code+Security+Auditor;%E2%9A%A1+NexusIoT+Distributed+SCADA+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go%2C+Python%2C+TypeScript+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%F0%9F%9B%A1%EF%B8%8F+KUBE-Sentinel+Autonomous+K8s+Mesh+%26+Chaos+Resilience;%F0%9F%8F%A5+SYNAPSE-Med+ICU+Vital+Telemetry+%26+NEWS2+Platform;%F0%9F%93%98+FinPulse+Sub-Microsecond+HFT+Ring+Buffer+Architect;%F0%9F%9B%A1%EF%B8%8F+SentinelAI+AST+Static+Code+Security+Auditor;%E2%9A%A1+NexusIoT+Distributed+SCADA+Edge+Platform;%F0%9F%9A%80+Full-Stack+Go%2C+Python%2C+TypeScript+%26+Next.js" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,134 +19,78 @@
 
 ---
 
-## 🏛️ Executive Summary & Academic Credentials
+## 🏛️ Executive Profile
 
 - 🎓 **Education**: 5th-Year Computer Engineering Senior Student at **Addis Ababa Science and Technology University (AASTU)**.
-- 🏆 **Academic Standing**: Cumulative GPA **3.78 / 4.00** (Top Tier Class Honors).
-- ⚙️ **Core Engineering Domain**: High-performance Go microservices, eBPF network telemetry, atomic lock-free SPSC queues, real-time medical vital wave oscilloscopes, bare-metal AVR firmware, and AST static security auditing.
-- 🎯 **Target Roles**: Distributed Systems Engineer, Low-Latency Backend Architect, DevSecOps Engineer, Systems Researcher.
+- ⚙️ **Engineering Focus**: High-performance Go microservices, eBPF network telemetry, real-time medical vital wave oscilloscopes, hardware edge computing, and static AST code security auditing.
+- 🎯 **Looking For**: Computer Engineering Internship / Software Engineering Internship Opportunities.
 
 ---
 
-## 🚀 Featured Enterprise Flagship Projects
+## 🚀 Key Engineering Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ KUBE-Sentinel Mesh Engine</h3>
-      <p align="center">
-        <a href="https://yaya2127.github.io/kube-sentinel-platform/">
-          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/kube-sentinel.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
-        </a>
-      </p>
-      <p><b>Autonomous Kubernetes Microservice Mesh & Chaos Resilience Engine</b></p>
-      <ul>
-        <li><b>60 FPS DAG Topology</b>: Real-time HTML5 Canvas microservice dependency graph visualizer.</li>
-        <li><b>eBPF Network Tracing</b>: Sub-millisecond packet span logging HTTP/gRPC codes.</li>
-        <li><b>Chaos Injection Engine</b>: Pod Kill Switch, Latency Spikes (+180ms), & 30% Packet Loss.</li>
-        <li><b>Interactive CLI Terminal</b>: Built-in <code>kubectl</code> command parser drawer.</li>
-      </ul>
-      <p align="center">
-        <a href="https://yaya2127.github.io/kube-sentinel-platform/"><b>🌐 Launch Live App</b></a> | 
-        <a href="https://github.com/yaya2127/kube-sentinel-platform"><b>💻 GitHub Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 SYNAPSE-Med Telemetry Platform</h3>
-      <p align="center">
-        <a href="https://yaya2127.github.io/synapse-med-platform/">
-          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/synapse-med.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
-        </a>
-      </p>
-      <p><b>Real-Time Emergency ICU Vital Telemetry & NEWS2 Risk Evaluator</b></p>
-      <ul>
-        <li><b>Dual Oscilloscope Engine</b>: 60 FPS 12-Lead ECG + SpO2 Waveform Canvas.</li>
-        <li><b>NEWS2 Sepsis Evaluator</b>: Automated clinical sepsis & cardiac warning score.</li>
-        <li><b>8-Bed ICU Matrix</b>: Real-time bed switching & IV pharmacological calculator.</li>
-        <li><b>Audio & Export</b>: QRS sound synthesizer & thermal ECG rhythm strip PDF exporter.</li>
-      </ul>
-      <p align="center">
-        <a href="https://yaya2127.github.io/synapse-med-platform/"><b>🌐 Launch Live App</b></a> | 
-        <a href="https://github.com/yaya2127/synapse-med-platform"><b>💻 GitHub Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 FinPulse HFT Engine</h3>
-      <p align="center">
-        <a href="https://yaya2127.github.io/finpulse-trading-engine/">
-          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/finpulse-trading.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
-        </a>
-      </p>
-      <p><b>Sub-Microsecond High-Frequency Trading & Risk Engine</b></p>
-      <ul>
-        <li><b>Lock-Free Ring Buffer</b>: Sub-microsecond SPSC order execution queue in Go.</li>
-        <li><b>L2 Order Book Slicer</b>: Price-time priority matching with VWAP/TWAP order slicing.</li>
-        <li><b>Black-Scholes Options</b>: Real-time Greeks (Δ, Γ, V, Θ) & 95% Monte Carlo VaR.</li>
-        <li><b>Bloomberg-Grade UI</b>: Professional dark console interface.</li>
-      </ul>
-      <p align="center">
-        <a href="https://yaya2127.github.io/finpulse-trading-engine/"><b>🌐 Launch Live App</b></a> | 
-        <a href="https://github.com/yaya2127/finpulse-trading-engine"><b>💻 GitHub Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ NexusIoT Edge Platform</h3>
-      <p align="center">
-        <a href="https://yaya2127.github.io/nexus-iot-edge-platform/">
-          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/nexus-iot.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
-        </a>
-      </p>
-      <p><b>Distributed Industrial IoT Edge & SCADA Platform</b></p>
-      <ul>
-        <li><b>High-Throughput Ingestion</b>: Go microservices processing 100,000+ msgs/sec.</li>
-        <li><b>3D WebGL Digital Twin</b>: Three.js interactive wind turbine rotor simulation.</li>
-        <li><b>Fault Injection SCADA</b>: Remote sensor overheat, bearing spike, & gas leak alerts.</li>
-        <li><b>Industrial Edge UI</b>: Real-time telemetry dashboard & CSV exporter.</li>
-      </ul>
-      <p align="center">
-        <a href="https://yaya2127.github.io/nexus-iot-edge-platform/"><b>🌐 Launch Live App</b></a> | 
-        <a href="https://github.com/yaya2127/nexus-iot-edge-platform"><b>💻 GitHub Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🛡️ SentinelAI Code Security Auditor</h3>
-      <p align="center">
-        <a href="https://yaya2127.github.io/sentinel-ai-code-auditor/">
-          <img src="https://raw.githubusercontent.com/yaya2127/Personal-Portfolio/main/assets/img/sentinel-ai.svg" width="100%" style="border-radius:10px; border: 1px solid #334155;"/>
-        </a>
-      </p>
-      <p align="center"><b>Autonomous Agentic AI Code Security & AST Vulnerability Auditor</b></p>
-      <ul>
-        <li><b>AST Compiler Parser</b>: Static analysis detecting SQLi, Secrets, Buffer Overflows & Go Panics.</li>
-        <li><b>OWASP Risk Radar</b>: 6-Axis vulnerability posture score (0-100) & ISO 27001 auditor output.</li>
-        <li><b>1-Click Auto-Remediation</b>: Unified Git Diff synthesizer generating security patch output.</li>
-      </ul>
-      <p align="center">
-        <a href="https://yaya2127.github.io/sentinel-ai-code-auditor/"><b>🌐 Launch Live App</b></a> | 
-        <a href="https://github.com/yaya2127/sentinel-ai-code-auditor"><b>💻 GitHub Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🛡️ KUBE-Sentinel — Autonomous K8s Mesh & Chaos Engine
+*Autonomous Kubernetes Microservice Mesh & Chaos Resilience Platform*
+- **60 FPS DAG Topology**: Real-time HTML5 Canvas microservice dependency graph visualizer.
+- **eBPF Network Tracing**: Sub-millisecond packet span logging HTTP/gRPC status codes.
+- **Chaos Injection Engine**: Pod Kill Switch, Latency Spikes (+180ms), & 30% Packet Loss simulations.
+- **Interactive CLI**: Integrated `kubectl` CLI command terminal drawer.
+- **Tech Stack**: `Go 1.22`, `Kubernetes v1.30`, `eBPF`, `Istio Mesh`, `Docker`
+- 🌐 [Launch Live App](https://yaya2127.github.io/kube-sentinel-platform/) | 💻 [GitHub Repository](https://github.com/yaya2127/kube-sentinel-platform)
+
+---
+
+### 🏥 SYNAPSE-Med — ICU Vital Telemetry & NEWS2 Evaluator
+*Real-Time Emergency ICU Vital Monitoring & Clinical Alarm Platform*
+- **Dual Oscilloscope**: 60 FPS 12-Lead ECG + SpO2 Waveform Canvas.
+- **NEWS2 Sepsis Evaluator**: Automated clinical sepsis & cardiac warning risk score calculator.
+- **8-Bed ICU Matrix**: Real-time bed switching & IV pharmacological titration calculator.
+- **Audio & Export**: QRS sound synthesizer & thermal ECG rhythm strip PDF exporter.
+- **Tech Stack**: `Go 1.22`, `Python 3.11`, `Web Audio API`, `HTML5 Canvas`
+- 🌐 [Launch Live App](https://yaya2127.github.io/synapse-med-platform/) | 💻 [GitHub Repository](https://github.com/yaya2127/synapse-med-platform)
+
+---
+
+### 📈 FinPulse HFT — Sub-Microsecond Trading Engine
+*Low-Latency High-Frequency Trading & Options Risk Engine*
+- **Lock-Free Ring Buffer**: Sub-microsecond SPSC order execution queue in Go.
+- **L2 Order Book**: Price-time priority matching engine with VWAP/TWAP order slicing.
+- **Black-Scholes Options**: Real-time Greeks (Δ, Γ, V, Θ) & 95% Monte Carlo Value-at-Risk.
+- **Tech Stack**: `Go 1.22`, `Python 3.11`, `TradingView UI`, `Algorithms`
+- 🌐 [Launch Live App](https://yaya2127.github.io/finpulse-trading-engine/) | 💻 [GitHub Repository](https://github.com/yaya2127/finpulse-trading-engine)
+
+---
+
+### ⚡ NexusIoT Edge — Industrial SCADA & 3D Digital Twin
+*Distributed Industrial IoT Edge Platform & Telemetry Pipeline*
+- **High-Throughput Ingestion**: Go microservices processing 100,000+ msgs/sec.
+- **3D WebGL Digital Twin**: Three.js interactive wind turbine rotor simulation.
+- **Fault Injection SCADA**: Remote sensor overheat, bearing spike, & gas leak alert system.
+- **Tech Stack**: `Go 1.22`, `WebSockets`, `Redis Pub/Sub`, `Three.js 3D`, `PostgreSQL 15`
+- 🌐 [Launch Live App](https://yaya2127.github.io/nexus-iot-edge-platform/) | 💻 [GitHub Repository](https://github.com/yaya2127/nexus-iot-edge-platform)
+
+---
+
+### 🛡️ SentinelAI Auditor — Agentic AI Code Security Auditor
+*Autonomous AST Static Vulnerability Auditor & Auto-Remediation Patch Engine*
+- **AST Compiler Parser**: Detects SQLi, Hardcoded Secrets, Buffer Overflows & Go Panics.
+- **OWASP Risk Radar**: 6-Axis vulnerability posture score (0-100) & ISO 27001 auditor output.
+- **1-Click Auto-Remediation**: Unified Git Diff synthesizer generating security patch output.
+- **Tech Stack**: `Python AST`, `React 18`, `Tailwind CSS`, `DevSecOps`
+- 🌐 [Launch Live App](https://yaya2127.github.io/sentinel-ai-code-auditor/) | 💻 [GitHub Repository](https://github.com/yaya2127/sentinel-ai-code-auditor)
 
 ---
 
 ## 💻 Technical Stack & Domain Proficiency
 
-```
-   LANGUAGES      : Go (Golang 1.22), Python 3.11, C/C++, TypeScript, JavaScript (ES6+), SQL, Dart, Embedded C
-   BACKEND & MESH : Kubernetes v1.30, eBPF, Istio Service Mesh, Docker, RESTful APIs, WebSockets, Redis Pub/Sub, PostgreSQL 15, gRPC, NestJS
-   FRONTEND & UI  : React 18, Next.js, Three.js 3D WebGL, Flutter, HTML5 Canvas 60FPS, Web Audio API, Tailwind CSS
-   HARDWARE & SEC : AST Compiler Parsers, OWASP Top 10, ISO 27001 Compliance, ATmega328P Bare-Metal, FreeRTOS, Proteus VSM
-```
+- **Languages**: Go (Golang 1.22), Python 3.11, C/C++, TypeScript, JavaScript (ES6+), SQL, Dart, Embedded C
+- **Backend & Cloud**: Kubernetes v1.30, eBPF, Istio Service Mesh, Docker, RESTful APIs, WebSockets, Redis Pub/Sub, PostgreSQL 15, gRPC, NestJS
+- **Frontend & Web**: React 18, Next.js, Three.js 3D WebGL, Flutter, HTML5 Canvas 60FPS, Web Audio API, Tailwind CSS
+- **Hardware & Security**: AST Compiler Parsers, OWASP Top 10, ISO 27001 Compliance, ATmega328P Bare-Metal, FreeRTOS, Proteus VSM
 
 <div align="center">
 
-### 🛠️ Core Technologies & Tools
+### 🛠️ Core Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
