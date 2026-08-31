@@ -2,7 +2,7 @@
 
 # Hi there, I'm Yared Kinetibeb Tesfaye 👋
 ### 5th-Year Computer Engineering Senior @ Addis Ababa Science and Technology University (AASTU)
-**Full-Stack Software Engineer | AI & Cloud Systems Developer**
+**Full-Stack & Backend AI Engineer | Python, Go, Node.js, PostgreSQL | Agentic Workflows & Cloud Systems | CE @ AASTU**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%F0%9F%92%BB+Full-Stack+Software+Engineer+%26+Cloud+Developer;%F0%9F%A4%96+AI+Code+Security+%26+AST+Compiler+Parsers;%F0%9F%9A%80+Go%2C+Python%2C+C%2B%2B%2C+TypeScript+%26+Next.js" alt="Typing SVG" />
