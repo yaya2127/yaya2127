@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yared Kinetibeb Tesfaye
+# Hi there, I'm Yared Kinetibeb Tesfaye 👋
 ### 5th-Year Computer Engineering Senior @ Addis Ababa Science and Technology University (AASTU)
 **Full-Stack Software Engineer | AI & Cloud Systems Developer**
 
