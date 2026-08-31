@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=3000&pause=1000&color=DFA951&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%93+5th-Year+Computer+Engineering+Senior+%40+AASTU;%F0%9F%92%BB+Full-Stack+Software+Engineer+%26+Cloud+Developer;%F0%9F%A4%96+AI+Code+Security+%26+AST+Compiler+Parsers;%F0%9F%9A%80+Go%2C+Python%2C+C%2B%2B%2C+TypeScript+%26+Next.js" alt="Typing SVG" />
 </a>
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-dfa951?style=for-the-badge&logo=google-chrome&logoColor=0f172a)](https://yaya2127.github.io/Personal-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-kinetibeb-704077301/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinetibebyared@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-b8860b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://yaya2127.github.io/Personal-Portfolio/assets/docs/Yared_Kinetibeb_CV.pdf)
+
 </div>
 
 ---
@@ -64,8 +71,11 @@
 <a href="https://www.linkedin.com/in/yared-kinetibeb-704077301/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://yaya2127.github.io/Personal-Portfolio/">
-  <img src="https://img.shields.io/badge/Live_Portfolio-dfa951?style=for-the-badge&logo=google-chrome&logoColor=0f172a" height="40" />
+<a href="https://x.com/Yared_kin212">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+<a href="https://www.instagram.com/yared_kinetibeb?igsh=bHdyamw0YXoyank5">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 <a href="mailto:kinetibebyared@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
