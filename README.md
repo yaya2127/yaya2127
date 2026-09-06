@@ -10,10 +10,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-dfa951?style=for-the-badge&logo=google-chrome&logoColor=0f172a)](https://yaya2127.github.io/Personal-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-dfa951?style=for-the-badge&logo=google-chrome&logoColor=0f172a)](https://yareds.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-kinetibeb-704077301/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinetibebyared@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download_CV-b8860b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://yaya2127.github.io/Personal-Portfolio/assets/docs/Yared_Kinetibeb_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-b8860b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://yareds.tech/assets/docs/Yared_Kinetibeb_CV.pdf)
 
 </div>
 
@@ -106,3 +106,4 @@
 <!-- sep04_surge_commit_2 -->
 <!-- sep04_surge_commit_3 -->
 <!-- sep04_surge_commit_4 -->
+<!-- sep06_surge_commit_1 -->
