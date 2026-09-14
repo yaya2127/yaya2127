@@ -28,21 +28,6 @@
 
 ---
 
-## 🌟 Highlighted Flagship Project
-
-### 🛡️ KUBE-Sentinel — Autonomous K8s Mesh & Chaos Engine
-*Autonomous Kubernetes Microservice Mesh & Chaos Resilience Platform*
-
-- **60 FPS DAG Topology Visualizer**: Interactive real-time HTML5 microservice dependency graph.
-- **eBPF Network Tracing**: Sub-millisecond packet span logging for HTTP/gRPC traffic.
-- **Chaos Injection Engine**: Automated Pod Kill Switch, Latency Spikes (+180ms), and 30% Packet Loss simulations.
-- **Integrated CLI**: Interactive `kubectl` terminal command parser drawer.
-- **Tech Stack**: `Go 1.22`, `Kubernetes v1.30`, `eBPF`, `Istio Mesh`, `Docker`
-
-🌐 [Launch Live App](https://yaya2127.github.io/kube-sentinel-platform/) | 💻 [View GitHub Code](https://github.com/yaya2127/kube-sentinel-platform)
-
----
-
 ## 🛠️ Languages and Tools
 
 <div align="left">
